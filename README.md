@@ -1,1 +1,3 @@
 # Virtual-Desktop-Pet
+
+The goal of is this research is to create an interactive desktop pet integrated with ChatGPT. For the significance of the goal to research, it contributes to the field of human-computer interaction and artificial intelligence by exploring the integration of the high-level language model chatgpt into everyday applications; For the end-user community, it provides a novel, more intelligent desktop companion. The research question being investigated is: How can an interactive desktop pet integrate ChatGPT to combine assistance functionalities? This question relates directly to the goal by focusing on the integration of AI to enhance the functionality of the virtual pet. 
